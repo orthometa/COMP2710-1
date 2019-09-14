@@ -1,4 +1,4 @@
-//enter your name
+//enter your name: tester
 //Quiz1
 //Describe source code
 //received any help?
