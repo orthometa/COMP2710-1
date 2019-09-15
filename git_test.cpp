@@ -1,5 +1,5 @@
 //enter your name: tester
-//Quiz3
+//version control Quiz
 //Describe source code
 //received any help?
 #include <iostream>
