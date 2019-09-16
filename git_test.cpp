@@ -7,5 +7,6 @@ using namespace std;
 int main()
 {
  cout << "Welcome to Git World!";
- cout << endl;return 0;
+ cout << endl;
+return 0;
 }
