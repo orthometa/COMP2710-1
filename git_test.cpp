@@ -12,4 +12,5 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
+ cout << "Friend" << endl;
 }
