@@ -1,11 +1,15 @@
-//enter your name: tester
-//version control Quiz
-//Describe source code
-//received any help?
+//Quiz3
+
 #include <iostream>
 using namespace std;
+void display();
 int main()
 {
- cout << "Welcome to Git World!";
- cout << endl;return 0;
+ cout << "Welcome to Git World!"<< endl;
+ display();
+ return 0;
+}
+void display ()
+{
+ cout << "Xuechao Li" << endl;
 }
