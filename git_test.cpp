@@ -1,4 +1,4 @@
-//Quiz3
+//Quiz7
 
 #include <iostream>
 using namespace std;
